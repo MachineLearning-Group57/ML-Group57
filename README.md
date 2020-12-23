@@ -1,2 +1,2 @@
 # ML-Group57
-Group Project for Machine Learning
+This is a Machine Learning Project for predicting the Singapore HDB flat resale price
